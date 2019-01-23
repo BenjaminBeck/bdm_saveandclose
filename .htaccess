@@ -1,0 +1,10 @@
+Deny from all
+
+<Files "ext_icon.gif">
+	Allow from all
+	Satisfy Any
+</Files>
+<Files "ext_icon.svg">
+	Allow from all
+	Satisfy Any
+</Files>
