@@ -1,6 +1,9 @@
 <?php
 namespace BDM\BdmSaveandclose\XClass;
 
+use TYPO3\CMS\Backend\Template\Components\ButtonBar;
+use TYPO3\CMS\Core\Imaging\Icon;
+
 /**
  * Created by PhpStorm.
  * User: benjamin
