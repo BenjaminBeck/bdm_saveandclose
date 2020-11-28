@@ -1,8 +1,8 @@
 {
-    "name": "BDM/bdm_saveandclose",
+    "name": "bdm/bdm_saveandclose",
     "description": "Add a save and close button",
     "keywords": ["TYPO3 CMS", "save and close button"],
-    "version": "9.5.1",
+    "version": "10.4",
     "homepage": "",
     "type": "typo3-cms-extension",
     "minimum-stability": "dev",
@@ -18,8 +18,7 @@
         }
     },
     "require": {
-        "typo3/cms-core": "9.5.0 - 9.5.99",
-        "typo3/cms-setup": "*"
+        "typo3/cms-core": "^10.4 | dev-master",
     }
 }
 
