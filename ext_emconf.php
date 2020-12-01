@@ -14,7 +14,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Save and close button',
 	'description' => 'Add a save and close button',
 	'category' => 'plugin',
-	'version' => '9.5.1',
+	'version' => '10.4',
 	'dependencies' => '',
 	'conflicts' => '',
 	'priority' => '',
@@ -33,7 +33,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'CGLcompliance_note' => '',
 	'constraints' => array(
 		'depends' => array(
-			'typo3' => '9.5.0-9.5.99'
+			'typo3' => '10.4.0-10.4.99'
 		),
 		'conflicts' => array(
 		),
